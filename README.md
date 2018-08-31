@@ -1,4 +1,5 @@
-# spring-2019
+# P250 : Spring 2019
+
 Computational Physics (P250) for the Spring semester 2019
 
 Here you will find all the examples used in class and the computational assignments (labs and prelabs).
