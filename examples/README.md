@@ -1,8 +1,19 @@
-# P250 : Spring 2019
+# Examples
 
-Computational Physics (P250) for the Spring semester 2019
+Contained here are the examples used throughout the semester.
+The examples will be updated weekly.
 
-Here you will find all the examples used in class and the computational assignments (labs and prelabs).
+You should download these notebooks and explore them yourself!
 
-The assignments will *also* be available from Canvas.
-All assignments **must be turned in through Canvas**.
+A brief description of each example follows.
+
+- **Numbers_and_Precision.ipynb**:
+This shows the main difficulty with numerical work -- finite precision!
+- **Algorithm_Choice.ipynb**:
+An example showing that all mathematically equivalent algorithms do not behave the same way numerically.
+- **Root_Finding.ipynb**:
+An example showing the use of routines from `scipy.optimize` for one dimensional root finding.
+- **Interpolation.ipynb**:
+An example showing the use of routines from scipy.interpolate for one dimensional interpolation.
+- **Numerical_Derivatives.ipynb**:
+An examples describing Richardson extrapolation as applied to center differencing and some examples of its use.
